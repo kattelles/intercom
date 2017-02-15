@@ -31,6 +31,7 @@ const events = [
 ];
 
 document.addEventListener("DOMContentLoaded", function() {
+  console.log("Hi, Intercom! :)");
   let eventList = document.getElementById('event-list');
   for (let i = 0; i < events.length; i++) {
     let currEvent = document.createElement('div');

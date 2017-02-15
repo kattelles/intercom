@@ -11,10 +11,8 @@ either take down the site or pay thousands of dollars in fines. I took this as a
 and to this day break out the story at parties. You can check out my version of Tumblr here: [stumblrr](http://stumblrr.com/).
 
 ## Distance to Dublin
-To run program: `ruby ./distances/driver.rb`
-To run tests:   
-  `cd rspec'
-  'rspec spec`
+* To run program: `ruby ./distances/driver.rb`
+* To run tests: `cd rspec and rspec spec`
 
 ## Eventcom
   Copy full path of 'calendar/index.html' and paste in browser.
