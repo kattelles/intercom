@@ -1,0 +1,14 @@
+GEM
+  specs:
+    rspec-core (3.5.4)
+      rspec-support (~> 3.5.0)
+    rspec-support (3.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rspec-core
+
+BUNDLED WITH
+   1.12.5
