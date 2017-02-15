@@ -12,7 +12,7 @@ and to this day break out the story at parties. You can check out my version of 
 
 ## Distance to Dublin
 * To run program: `ruby ./distances/driver.rb`
-* To run tests: `cd rspec and rspec spec`
+* To run tests: `cd distances/rspec and rspec spec`
 
 ## Eventcom
   Copy full path of 'calendar/index.html' and paste in browser.
